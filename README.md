@@ -1,3 +1,8 @@
+![image](https://user-images.githubusercontent.com/62290677/158029789-88cb77fc-8c23-42e0-9cf0-f7d8551d2ecf.png)
+![Screenshot 2022-03-12 190314](https://user-images.githubusercontent.com/62290677/158029793-858b89b0-c35f-4d81-900d-d0f1c4982cb5.jpg)
+![Screenshot 2022-03-12 190629](https://user-images.githubusercontent.com/62290677/158029796-bd0e1bbc-ec64-46b9-8f25-2b21bb5a4c63.jpg)
+
+
 <div dir="rtl" lang="he">
 
 # יצרני השטיחים
