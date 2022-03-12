@@ -11,9 +11,11 @@ namespace ariel
         {
             throw std::invalid_argument("Mat size is always odd");
         }
-        if (first_char < 33 || first_char > 126 || second_char < 33 || first_char > 126 )
+        const int mincar = 33;
+        const int maxchar = 126;
+        if (first_char < mincar || first_char > maxchar || second_char < mincar || second_char > maxchar)
         {
-            throw std::invalid_argument("chars must be printable");
+            throw std::invalid_argument("dont use chars that cannot be printed ");
         }
         if (width == 0 || height == 0)
         {
