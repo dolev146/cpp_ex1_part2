@@ -4,6 +4,7 @@
 namespace ariel
 {
 
+// here i will check for errors and throw the program according to valid parameters
     void check_errors(int width, int height, char first_char, char second_char)
     {
         // according to demo file line 36 mat size is always odd
@@ -66,7 +67,7 @@ namespace ariel
                     str[(i * width) + y] = first_char;
                 }
             }
-
+            // second for loop of the algorithm lin 43 in this file
             for (size_t j = y; j < (b - y) && (b - y) > 0; ++j)
             {
                 if (x < a && j < b)
